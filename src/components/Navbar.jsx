@@ -95,7 +95,7 @@ export default function Navbar() {
             onClick={(e) => scrollToSection(e, '#contact')}
             className="editorial-btn text-sm py-2 px-6 min-h-[2.6rem] font-bold"
           >
-            Say Hello
+            Intrested
           </a>
         </div>
 
@@ -134,7 +134,7 @@ export default function Navbar() {
               onClick={(e) => scrollToSection(e, '#contact')}
               className="editorial-btn w-full text-center"
             >
-              Say Hello
+              Intrested
             </a>
           </div>
         </div>
