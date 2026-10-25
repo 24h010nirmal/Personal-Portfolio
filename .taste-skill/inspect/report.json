@@ -1,0 +1,3185 @@
+{
+ "url": "http://localhost:3000",
+ "at": "2026-10-25T06:36:55.059Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    0.38,
+    0.94,
+    0.94,
+    0.94,
+    0.93,
+    0.92,
+    0.83,
+    0.71,
+    0.63,
+    0.78,
+    0.94
+   ],
+   "motion": {
+    "elements": 23,
+    "css": 0,
+    "transitions": 5,
+    "scripted": 18,
+    "videos": 2,
+    "playingVideos": 2
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 9425,
+     "screens": 10.5,
+     "words": 1062,
+     "img": 4,
+     "video": 2,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 2,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "profile-photo.jpg",
+      "ripon-building-panorama.jpg",
+      "chennai-presidency-college-building-in-chennai-2",
+      "ripon-building-panorama.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "G. NIRMAL",
+     "words": 2,
+     "chars": 9,
+     "lines": 2,
+     "size": 146.4,
+     "vw": 10.2,
+     "font": "Archivo",
+     "weight": 900,
+     "tracking": -0.04,
+     "leading": 0.9,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.53,
+     "top": 205,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "G. NIRMAL",
+     "words": 2,
+     "lines": 2,
+     "size": 146.4,
+     "font": "Archivo"
+    },
+    "headings": [
+     {
+      "text": "G. NIRMAL",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "G. NIRMAL",
+      "words": 2,
+      "chars": 9,
+      "lines": 2,
+      "size": 146.4,
+      "vw": 10.2,
+      "font": "Archivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 205,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Frontend Developer & Problem Solver from Tamil Nadu, India",
+      "words": 9,
+      "chars": 58,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Archivo",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 484,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Curiosity leads. Code brings ideas to life.",
+      "words": 7,
+      "chars": 43,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 968,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Learning by Building",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 1421,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "GUIDING PRINCIPLES",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 2100,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "LEARN",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 2215,
+      "tag": "h4",
+      "kind": "heading"
+     },
+     {
+      "text": "Technical Foundations & Tools",
+      "words": 4,
+      "chars": 29,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 2643,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "FRONTEND DEVELOPMENT",
+      "words": 2,
+      "chars": 20,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 2825,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected Projects",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 3514,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "NOTES VAULT",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.11,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 3608,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "NOVACART",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.11,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 4392,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "PERSONAL PORTFOLIO",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.11,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 5147,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Always Learning, Always Building",
+      "words": 4,
+      "chars": 32,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 6998,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "FIRST-PRINCIPLES REASONING",
+      "words": 2,
+      "chars": 26,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.5,
+      "top": 7270,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "RESPECT FOR THE MEDIUM",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.5,
+      "top": 7454,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Have something in mind?",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 7698,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "nirmal.developer@example.com",
+      "words": 1,
+      "chars": 28,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 7905,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "SEND A DIRECT NOTE",
+      "words": 4,
+      "chars": 18,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.48,
+      "top": 7918,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "G. NIRMAL",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 146.4,
+      "vw": 10.2,
+      "font": "Archivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 9180,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 20,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      16,
+      17,
+      20,
+      24,
+      28,
+      36,
+      48,
+      146
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo",
+      "size": 17,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.1
+     },
+     "measureChars": 52,
+     "max": {
+      "size": 146.4,
+      "vw": 10.2,
+      "font": "Archivo",
+      "text": "G. NIRMAL"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.14,
+     "centerShare": 0.04,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0f0f",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.06
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0f0f0f",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.06
+       }
+      },
+      {
+       "color": "#1b48d6",
+       "top": 900,
+       "hsl": {
+        "h": 226,
+        "s": 0.78,
+        "l": 0.47
+       }
+      },
+      {
+       "color": "#181818",
+       "top": 1362,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#0e5e4e",
+       "top": 2579,
+       "hsl": {
+        "h": 168,
+        "s": 0.74,
+        "l": 0.21
+       }
+      },
+      {
+       "color": "#094236",
+       "top": 2825,
+       "hsl": {
+        "h": 167,
+        "s": 0.76,
+        "l": 0.15
+       }
+      },
+      {
+       "color": "#141414",
+       "top": 3451,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#1c1c1c",
+       "top": 5911,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#ffe600",
+       "top": 6937,
+       "hsl": {
+        "h": 54,
+        "s": 1,
+        "l": 0.5
+       }
+      },
+      {
+       "color": "#0b0b0b",
+       "top": 8579,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ffffff",
+       "share": 0.59
+      },
+      {
+       "color": "#f7f7f7",
+       "share": 0.13
+      },
+      {
+       "color": "#0f0f0f",
+       "share": 0.12
+      },
+      {
+       "color": "#ffe600",
+       "share": 0.06
+      },
+      {
+       "color": "#d0eae4",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#ffe600",
+      "hsl": {
+       "h": 54,
+       "s": 1,
+       "l": 0.5
+      },
+      "fg": "#0f0f0f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 20,
+     "inHero": 3,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 17,
+     "heroLabels": [
+      "SAY HELLO",
+      "EXPLORE MY WORK",
+      "ABOUT ME"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 6,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 6144
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.11
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 88,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 9425,
+    "margins": {
+     "left": 50,
+     "right": 60
+    },
+    "sections": [
+     {
+      "sel": "section#top.min-h-[100svh].pt-28",
+      "tag": "section",
+      "top": 0,
+      "height": 900,
+      "words": 80,
+      "media": 1,
+      "middle": 12,
+      "heading": {
+       "text": "G. NIRMAL",
+       "size": 146,
+       "tag": "h1"
+      },
+      "left": 50,
+      "right": 50,
+      "textLeft": 50,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section-spacing.bg-[#1B48D6]",
+      "tag": "section",
+      "top": 900,
+      "height": 462,
+      "words": 56,
+      "media": 1,
+      "middle": 173,
+      "heading": {
+       "text": "Curiosity leads. Code brings ideas to life.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 50,
+      "right": 62,
+      "textLeft": 50,
+      "textRight": 753,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.section-spacing.bg-[#181818]",
+      "tag": "section",
+      "top": 1362,
+      "height": 1217,
+      "words": 183,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Learning by Building",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 50,
+      "right": 94,
+      "textLeft": 50,
+      "textRight": 94,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#skills.section-spacing.bg-[#0E5E4E]",
+      "tag": "section",
+      "top": 2579,
+      "height": 871,
+      "words": 101,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Technical Foundations & Tools",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 50,
+      "right": 90,
+      "textLeft": 50,
+      "textRight": 90,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#projects.section-spacing.bg-[#141414]",
+      "tag": "section",
+      "top": 3451,
+      "height": 3487,
+      "words": 378,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Selected Projects",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 50,
+      "right": 57,
+      "textLeft": 50,
+      "textRight": 57,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#approach.section-spacing.bg-[#FFE600]",
+      "tag": "section",
+      "top": 6937,
+      "height": 702,
+      "words": 127,
+      "media": 0,
+      "middle": 176,
+      "heading": {
+       "text": "Always Learning, Always Building",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 50,
+      "right": 204,
+      "textLeft": 50,
+      "textRight": 204,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section-spacing.bg-[#0F0F0F]",
+      "tag": "section",
+      "top": 7639,
+      "height": 940,
+      "words": 92,
+      "media": 0,
+      "middle": 37,
+      "heading": {
+       "text": "Have something in mind?",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 50,
+      "right": 90,
+      "textLeft": 50,
+      "textRight": 98,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#0B0B0B].text-white",
+      "tag": "footer",
+      "top": 8579,
+      "height": 845,
+      "words": 99,
+      "media": 0,
+      "middle": 9,
+      "heading": null,
+      "left": 50,
+      "right": 50,
+      "textLeft": 50,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "G. NIRMAL",
+      "size": 146,
+      "top": 205,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 50,
+      "n": 17
+     },
+     {
+      "x": 880,
+      "n": 6
+     },
+     {
+      "x": 644,
+      "n": 4
+     },
+     {
+      "x": 74,
+      "n": 3
+     },
+     {
+      "x": 90,
+      "n": 3
+     },
+     {
+      "x": 506,
+      "n": 2
+     },
+     {
+      "x": 660,
+      "n": 2
+     },
+     {
+      "x": 605,
+      "n": 1
+     },
+     {
+      "x": 620,
+      "n": 1
+     },
+     {
+      "x": 764,
+      "n": 1
+     },
+     {
+      "x": 892,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 41,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 660,
+     "y": 180,
+     "w": 300,
+     "h": 300
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.38,
+    0.7,
+    0.88,
+    0.9,
+    0.93,
+    0.79,
+    0.81,
+    0.77,
+    0.68,
+    0.76,
+    0.55,
+    0.8
+   ],
+   "motion": {
+    "elements": 23,
+    "css": 0,
+    "transitions": 5,
+    "scripted": 18,
+    "videos": 2,
+    "playingVideos": 2
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 12785,
+     "screens": 12.5,
+     "words": 1062,
+     "img": 4,
+     "video": 2,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 2,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "profile-photo.jpg",
+      "ripon-building-panorama.jpg",
+      "chennai-presidency-college-building-in-chennai-2",
+      "ripon-building-panorama.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "G. NIRMAL",
+     "words": 2,
+     "chars": 9,
+     "lines": 1,
+     "size": 89.3,
+     "vw": 11.6,
+     "font": "Archivo",
+     "weight": 900,
+     "tracking": -0.04,
+     "leading": 0.9,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.93,
+     "top": 218,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "G. NIRMAL",
+     "words": 2,
+     "lines": 1,
+     "size": 89.3,
+     "font": "Archivo"
+    },
+    "headings": [
+     {
+      "text": "G. NIRMAL",
+      "words": 2,
+      "chars": 9,
+      "lines": 2,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.17,
+      "top": 20,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "G. NIRMAL",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 89.3,
+      "vw": 11.6,
+      "font": "Archivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 218,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Frontend Developer & Problem Solver from Tamil Nadu, India",
+      "words": 9,
+      "chars": 58,
+      "lines": 2,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Archivo",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 314,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Curiosity leads. Code brings ideas to life.",
+      "words": 7,
+      "chars": 43,
+      "lines": 2,
+      "size": 37.7,
+      "vw": 4.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 1381,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Learning by Building",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 37.7,
+      "vw": 4.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 2256,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "GUIDING PRINCIPLES",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 3011,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "LEARN",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.13,
+      "top": 3119,
+      "tag": "h4",
+      "kind": "heading"
+     },
+     {
+      "text": "Technical Foundations & Tools",
+      "words": 4,
+      "chars": 29,
+      "lines": 1,
+      "size": 37.7,
+      "vw": 4.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 3616,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "FRONTEND DEVELOPMENT",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 3853,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected Projects",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 37.7,
+      "vw": 4.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 4626,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "NOTES VAULT",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.11,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 5195,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "NOVACART",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.11,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 6472,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "PERSONAL PORTFOLIO",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.11,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 7703,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Always Learning, Always Building",
+      "words": 4,
+      "chars": 32,
+      "lines": 1,
+      "size": 37.7,
+      "vw": 4.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 9710,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "FIRST-PRINCIPLES REASONING",
+      "words": 2,
+      "chars": 26,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 10201,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "RESPECT FOR THE MEDIUM",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 10385,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Have something in mind?",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 37.7,
+      "vw": 4.9,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 10591,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "nirmal.developer@example.com",
+      "words": 1,
+      "chars": 28,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 10791,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "SEND A DIRECT NOTE",
+      "words": 4,
+      "chars": 18,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 11275,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "G. NIRMAL",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 89.3,
+      "vw": 11.6,
+      "font": "Archivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 12592,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 20,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      16,
+      17,
+      20,
+      24,
+      28,
+      36,
+      38,
+      89
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo",
+      "size": 17,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.1
+     },
+     "measureChars": 52,
+     "max": {
+      "size": 89.3,
+      "vw": 11.6,
+      "font": "Archivo",
+      "text": "G. NIRMAL"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.14,
+     "centerShare": 0.04,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0f0f",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.06
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0f0f0f",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.06
+       }
+      },
+      {
+       "color": "#1b48d6",
+       "top": 1343,
+       "hsl": {
+        "h": 226,
+        "s": 0.78,
+        "l": 0.47
+       }
+      },
+      {
+       "color": "#113199",
+       "top": 1725,
+       "hsl": {
+        "h": 226,
+        "s": 0.8,
+        "l": 0.33
+       }
+      },
+      {
+       "color": "#1c1c1c",
+       "top": 1737,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#181818",
+       "top": 2220,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#0e5e4e",
+       "top": 3576,
+       "hsl": {
+        "h": 168,
+        "s": 0.74,
+        "l": 0.21
+       }
+      },
+      {
+       "color": "#094236",
+       "top": 3853,
+       "hsl": {
+        "h": 167,
+        "s": 0.76,
+        "l": 0.15
+       }
+      },
+      {
+       "color": "#141414",
+       "top": 4586,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#202020",
+       "top": 4708,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.13
+       }
+      },
+      {
+       "color": "#ffe600",
+       "top": 9670,
+       "hsl": {
+        "h": 54,
+        "s": 1,
+        "l": 0.5
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ffffff",
+       "share": 0.59
+      },
+      {
+       "color": "#f7f7f7",
+       "share": 0.13
+      },
+      {
+       "color": "#0f0f0f",
+       "share": 0.12
+      },
+      {
+       "color": "#ffe600",
+       "share": 0.06
+      },
+      {
+       "color": "#d0eae4",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#ffe600",
+      "hsl": {
+       "h": 54,
+       "s": 1,
+       "l": 0.5
+      },
+      "fg": "#0f0f0f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 20,
+     "inHero": 3,
+     "radius": 0,
+     "height": 53,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 17,
+     "heroLabels": [
+      "SAY HELLO",
+      "EXPLORE MY WORK",
+      "ABOUT ME"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 6,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 8736
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.14
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 123,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 12785,
+    "margins": {
+     "left": 27,
+     "right": 39
+    },
+    "sections": [
+     {
+      "sel": "section#top.min-h-[100svh].pt-28",
+      "tag": "section",
+      "top": 0,
+      "height": 1343,
+      "words": 80,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "G. NIRMAL",
+       "size": 89,
+       "tag": "h1"
+      },
+      "left": 27,
+      "right": 45,
+      "textLeft": 27,
+      "textRight": 45,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section-spacing.bg-[#1B48D6]",
+      "tag": "section",
+      "top": 1343,
+      "height": 877,
+      "words": 56,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Curiosity leads. Code brings ideas to life.",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 27,
+      "right": 39,
+      "textLeft": 27,
+      "textRight": 94,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.section-spacing.bg-[#181818]",
+      "tag": "section",
+      "top": 2220,
+      "height": 1355,
+      "words": 183,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Learning by Building",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 27,
+      "right": 27,
+      "textLeft": 27,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#skills.section-spacing.bg-[#0E5E4E]",
+      "tag": "section",
+      "top": 3576,
+      "height": 1010,
+      "words": 101,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Technical Foundations & Tools",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 27,
+      "right": 67,
+      "textLeft": 27,
+      "textRight": 67,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#projects.section-spacing.bg-[#141414]",
+      "tag": "section",
+      "top": 4586,
+      "height": 5084,
+      "words": 378,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Selected Projects",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 27,
+      "right": 39,
+      "textLeft": 27,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#approach.section-spacing.bg-[#FFE600]",
+      "tag": "section",
+      "top": 9670,
+      "height": 884,
+      "words": 127,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Always Learning, Always Building",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 27,
+      "right": 126,
+      "textLeft": 27,
+      "textRight": 126,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section-spacing.bg-[#0F0F0F]",
+      "tag": "section",
+      "top": 10553,
+      "height": 1388,
+      "words": 92,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Have something in mind?",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 27,
+      "right": 64,
+      "textLeft": 27,
+      "textRight": 64,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#0B0B0B].text-white",
+      "tag": "footer",
+      "top": 11942,
+      "height": 844,
+      "words": 99,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 27,
+      "right": 27,
+      "textLeft": 27,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "G. NIRMAL",
+      "size": 89,
+      "top": 218,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 27,
+      "n": 24
+     },
+     {
+      "x": 51,
+      "n": 7
+     },
+     {
+      "x": 67,
+      "n": 6
+     },
+     {
+      "x": 272,
+      "n": 2
+     },
+     {
+      "x": 428,
+      "n": 1
+     },
+     {
+      "x": 481,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 41,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.46,
+    0.75,
+    0.99,
+    0.96,
+    0.96,
+    0.99,
+    0.96,
+    0.88,
+    0.94,
+    0.83,
+    0.91,
+    0.9
+   ],
+   "motion": {
+    "elements": 16,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 16,
+    "videos": 2,
+    "playingVideos": 2
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 16317,
+     "screens": 19.3,
+     "words": 1048,
+     "img": 4,
+     "video": 2,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 2,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "profile-photo.jpg",
+      "ripon-building-panorama.jpg",
+      "chennai-presidency-college-building-in-chennai-2",
+      "ripon-building-panorama.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "G. NIRMAL",
+     "words": 2,
+     "chars": 9,
+     "lines": 1,
+     "size": 57.2,
+     "vw": 14.7,
+     "font": "Archivo",
+     "weight": 900,
+     "tracking": -0.04,
+     "leading": 0.9,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 275,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "G. NIRMAL",
+     "words": 2,
+     "lines": 1,
+     "size": 57.2,
+     "font": "Archivo"
+    },
+    "headings": [
+     {
+      "text": "G. NIRMAL",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 20,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "G. NIRMAL",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 57.2,
+      "vw": 14.7,
+      "font": "Archivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 275,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Frontend Developer & Problem Solver from Tamil Nadu, India",
+      "words": 9,
+      "chars": 58,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Archivo",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 343,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Curiosity leads. Code brings ideas to life.",
+      "words": 7,
+      "chars": 43,
+      "lines": 2,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1476,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Learning by Building",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2183,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "GUIDING PRINCIPLES",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 3492,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "LEARN",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 3596,
+      "tag": "h4",
+      "kind": "heading"
+     },
+     {
+      "text": "BUILD",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 3918,
+      "tag": "h4",
+      "kind": "heading"
+     },
+     {
+      "text": "EXPLORE",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 4161,
+      "tag": "h4",
+      "kind": "heading"
+     },
+     {
+      "text": "Technical Foundations & Tools",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4397,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "FRONTEND DEVELOPMENT",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4747,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "HTML",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 5198,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "CSS",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 5348,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "JAVASCRIPT",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 5524,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "REACT",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 5700,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "TAILWIND CSS",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 5877,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected Projects",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6114,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "NOTES VAULT",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6444,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "NOVACART",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 7681,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "PERSONAL PORTFOLIO",
+      "words": 2,
+      "chars": 18,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 8957,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Interactive Project Console",
+      "words": 3,
+      "chars": 27,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 10022,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Always Learning, Always Building",
+      "words": 4,
+      "chars": 32,
+      "lines": 2,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 11987,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "FIRST-PRINCIPLES REASONING",
+      "words": 2,
+      "chars": 26,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 12699,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "RESPECT FOR THE MEDIUM",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 12979,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Have something in mind?",
+      "words": 4,
+      "chars": 23,
+      "lines": 2,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 13283,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "SEND A DIRECT NOTE",
+      "words": 4,
+      "chars": 18,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Archivo",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 14177,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "G. NIRMAL",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 57.2,
+      "vw": 14.7,
+      "font": "Archivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 16112,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 27,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 1,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      16,
+      17,
+      20,
+      24,
+      28,
+      30,
+      36,
+      57
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo",
+      "size": 17,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.9
+     },
+     "measureChars": 34,
+     "max": {
+      "size": 57.2,
+      "vw": 14.7,
+      "font": "Archivo",
+      "text": "G. NIRMAL"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.14,
+     "centerShare": 0.04,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0f0f",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.06
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0f0f0f",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.06
+       }
+      },
+      {
+       "color": "#1c1c1c",
+       "top": 811,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#1b48d6",
+       "top": 1433,
+       "hsl": {
+        "h": 226,
+        "s": 0.78,
+        "l": 0.47
+       }
+      },
+      {
+       "color": "#181818",
+       "top": 2142,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#242424",
+       "top": 2251,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.14
+       }
+      },
+      {
+       "color": "#0e5e4e",
+       "top": 4361,
+       "hsl": {
+        "h": 168,
+        "s": 0.74,
+        "l": 0.21
+       }
+      },
+      {
+       "color": "#094236",
+       "top": 5166,
+       "hsl": {
+        "h": 167,
+        "s": 0.76,
+        "l": 0.15
+       }
+      },
+      {
+       "color": "#141414",
+       "top": 6077,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#202020",
+       "top": 6869,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.13
+       }
+      },
+      {
+       "color": "#ffe600",
+       "top": 11947,
+       "hsl": {
+        "h": 54,
+        "s": 1,
+        "l": 0.5
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ffffff",
+       "share": 0.59
+      },
+      {
+       "color": "#f7f7f7",
+       "share": 0.13
+      },
+      {
+       "color": "#0f0f0f",
+       "share": 0.12
+      },
+      {
+       "color": "#ffe600",
+       "share": 0.05
+      },
+      {
+       "color": "#d0eae4",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#ffe600",
+      "hsl": {
+       "h": 54,
+       "s": 1,
+       "l": 0.5
+      },
+      "fg": "#0f0f0f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 19,
+     "inHero": 2,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 16,
+     "heroLabels": [
+      "EXPLORE MY WORK",
+      "ABOUT ME"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 6,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 10523
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 16317,
+    "margins": {
+     "left": 24,
+     "right": 30
+    },
+    "sections": [
+     {
+      "sel": "section#top.min-h-[100svh].pt-28",
+      "tag": "section",
+      "top": 0,
+      "height": 1433,
+      "words": 73,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "G. NIRMAL",
+       "size": 57,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 31,
+      "textLeft": 24,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section-spacing.bg-[#1B48D6]",
+      "tag": "section",
+      "top": 1433,
+      "height": 709,
+      "words": 56,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Curiosity leads. Code brings ideas to life.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 36,
+      "textLeft": 24,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.section-spacing.bg-[#181818]",
+      "tag": "section",
+      "top": 2142,
+      "height": 2219,
+      "words": 183,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Learning by Building",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 27,
+      "textLeft": 24,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#skills.section-spacing.bg-[#0E5E4E]",
+      "tag": "section",
+      "top": 4361,
+      "height": 1716,
+      "words": 101,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Technical Foundations & Tools",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 46,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#projects.section-spacing.bg-[#141414]",
+      "tag": "section",
+      "top": 6077,
+      "height": 5870,
+      "words": 378,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Notes Vault",
+       "size": 36,
+       "tag": "h3"
+      },
+      "left": 24,
+      "right": 26,
+      "textLeft": 24,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#approach.section-spacing.bg-[#FFE600]",
+      "tag": "section",
+      "top": 11947,
+      "height": 1296,
+      "words": 127,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Always Learning, Always Building",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 25,
+      "textLeft": 24,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section-spacing.bg-[#0F0F0F]",
+      "tag": "section",
+      "top": 13243,
+      "height": 1660,
+      "words": 92,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Have something in mind?",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 28,
+      "textLeft": 24,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#0B0B0B].text-white",
+      "tag": "footer",
+      "top": 14903,
+      "height": 1414,
+      "words": 99,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 41,
+      "textLeft": 24,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "G. NIRMAL",
+      "size": 57,
+      "top": 275,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 26
+     },
+     {
+      "x": 48,
+      "n": 19
+     },
+     {
+      "x": 60,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 46,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\stree\\portfo\\.taste-skill\\inspect\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\stree\\portfo\\.taste-skill\\inspect\\desktop-page-01.jpg",
+    "C:\\Users\\stree\\portfo\\.taste-skill\\inspect\\desktop-page-02.jpg",
+    "C:\\Users\\stree\\portfo\\.taste-skill\\inspect\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\stree\\portfo\\.taste-skill\\inspect\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\stree\\portfo\\.taste-skill\\inspect\\tablet-page-01.jpg",
+    "C:\\Users\\stree\\portfo\\.taste-skill\\inspect\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\stree\\portfo\\.taste-skill\\inspect\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\stree\\portfo\\.taste-skill\\inspect\\mobile-page-01.jpg",
+    "C:\\Users\\stree\\portfo\\.taste-skill\\inspect\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
