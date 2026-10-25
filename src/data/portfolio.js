@@ -98,6 +98,22 @@ export const skillsData = {
 
 export const projectsData = [
   {
+    id: "portfolio",
+    title: "Personal Portfolio",
+    discipline: "Creative Interaction Design",
+    year: "2026",
+    description: "A personal portfolio exploring sophisticated visual design, smooth scroll-driven storytelling, and interactive frontend development.",
+    technologies: ["React", "JavaScript", "CSS", "GSAP"],
+    image: "/assets/Portfolio.png",
+    accentTone: "#24221E",
+    roleDetails: "Explored 2D scroll transitions, typography scale hierarchies, and responsive micro-interactions.",
+    liveFeatures: [
+      { label: "Narrative Pacing", detail: "Calculated viewport spacing and scroll-triggered scene revelations." },
+      { label: "Architectural Typography", detail: "Scalable display letterforms anchored to viewport baselines." },
+      { label: "Reduced Motion Support", detail: "Graceful fallbacks preserving all narrative content statically." },
+    ],
+  },
+  {
     id: "notes-vault",
     title: "Notes Vault",
     discipline: "Full-Stack Academic Platform",
@@ -128,22 +144,6 @@ export const projectsData = [
       { label: "Product Discovery", detail: "Faceted filtering across categories, pricing bounds, and stock status." },
       { label: "Stateful Cart Engine", detail: "Real-time subtotal calculation, coupon validation, and delivery speed estimation." },
       { label: "Touch & Mobile Optimization", detail: "Gesture-friendly navigation and streamlined checkout sheet." },
-    ],
-  },
-  {
-    id: "portfolio",
-    title: "Personal Portfolio",
-    discipline: "Creative Interaction Design",
-    year: "2026",
-    description: "A personal portfolio exploring sophisticated visual design, smooth scroll-driven storytelling, and interactive frontend development.",
-    technologies: ["React", "JavaScript", "CSS", "GSAP"],
-    image: "/assets/Portfolio.png",
-    accentTone: "#24221E",
-    roleDetails: "Explored 2D scroll transitions, typography scale hierarchies, and responsive micro-interactions.",
-    liveFeatures: [
-      { label: "Narrative Pacing", detail: "Calculated viewport spacing and scroll-triggered scene revelations." },
-      { label: "Architectural Typography", detail: "Scalable display letterforms anchored to viewport baselines." },
-      { label: "Reduced Motion Support", detail: "Graceful fallbacks preserving all narrative content statically." },
     ],
   },
 ];
